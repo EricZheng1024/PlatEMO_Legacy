@@ -1,2 +1,1 @@
-# PlatEMO_Legacy
- 
+This is an archive of historical versions of [PlatEMO](https://github.com/BIMK/PlatEMO).
